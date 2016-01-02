@@ -8,7 +8,7 @@ Nav = React.createClass({
                             <li><a href="#">Wash U Repeat Browser</a></li>
                             <li><a href="/">Dashboard</a></li>
                             <li><a href="/repeats">Repeats</a></li>
-                            <li><a href="/datasets">Datasets</a></li>
+                            <li><a href="/experiments">Experiments</a></li>
                             <li><a href="/matrix">Matrix</a></li>
                             <li><a href="#">Details View</a></li>
                         </ul>

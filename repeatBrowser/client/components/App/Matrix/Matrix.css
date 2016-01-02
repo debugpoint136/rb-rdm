@@ -1,0 +1,21 @@
+.CFSMeta {
+    background-color: aquamarine;
+    border-radius: 3px;
+}
+
+.Subfamily-xAxis {
+    background-color: darkslategrey;
+    border-radius: 3px;
+}
+.experimentMeta {
+    background-color: antiquewhite;
+    border-radius: 3px;
+}
+.experiment-yAxis {
+    background-color: coral;
+    border-radius: 3px;
+}
+.heatmap {
+    background-color: honeydew;
+    border-radius: 3px;
+}

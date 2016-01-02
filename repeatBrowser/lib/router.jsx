@@ -18,11 +18,11 @@ FlowRouter.route('/repeats', {
     }
 });
 
-FlowRouter.route('/datasets', {
-    name: 'datasets',
+FlowRouter.route('/experiments', {
+    name: 'experiments',
     action() {
         ReactLayout.render(App, {
-            content: <Datasets />,
+            content: <Experiments />,
             nav: <Nav />
         })
     }
